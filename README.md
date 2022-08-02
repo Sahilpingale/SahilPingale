@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
+
